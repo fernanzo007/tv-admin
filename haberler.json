@@ -1,13 +1,13 @@
 [
   {
     "baslik": "MagicTV Yayına Başladı!",
-    "resimUrl": "https://raw.githubusercontent.com/fernando007/tv-admin/main/haber1.jpg",
+    "resimUrl": "https://raw.githubusercontent.com/fernanzo007/tv-admin/main/haber1.jpg",
     "icerik": "MagicTV Studio artık yayında. Kendi özel Android TV paneliniz üzerinden tüm haberleri anlık olarak takip edebilirsiniz.",
-    "haberLink": "https://github.com/fernando007"
+    "haberLink": "https://github.com/fernanzo007"
   },
   {
     "baslik": "Borsa İstanbul'da Hareketlilik",
-    "resimUrl": "https://raw.githubusercontent.com/fernando007/tv-admin/main/haber2.jpg",
+    "resimUrl": "https://raw.githubusercontent.com/fernanzo007/tv-admin/main/haber2.jpg",
     "icerik": "BIST endekslerinde bugün hareketli saatler yaşanıyor. Yatırımcılar kısa vadeli hareketleri takip ediyor.",
     "haberLink": "https://google.com"
   }
